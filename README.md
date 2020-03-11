@@ -1,6 +1,6 @@
 
 ## Use the commented instruction with slider intialized
-Gravity Glider Instruction code : https://github.com/vishnupriya-whitehatjr/c22-GravitySlider-Instructions
+Gravity Slider Instruction code : https://github.com/vishnupriya-whitehatjr/c22-GravitySlider-Instructions
 
 ### Please refer to code notes for explanation (only if needed).
 
